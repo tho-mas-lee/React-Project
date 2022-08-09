@@ -2,7 +2,7 @@
   "name": "rock-paper-scissor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cerulean-dieffenbachia-229135.netlify.com/",
+  "homepage": "https://stellular-stroopwafel-6db3ba.netlify.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
