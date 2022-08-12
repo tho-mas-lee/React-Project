@@ -2,7 +2,6 @@
   "name": "rock-paper-scissor",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fabulous-dragon-6c81f5.netlify.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
