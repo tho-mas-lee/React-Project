@@ -1,5 +1,5 @@
 # React를 이용한 첫번쨰 프로젝트(Rock-Paper-Scissor-Game)
-![](https://i.imgur.com/ZA5HlhG.png)
+![](https://i.imgur.com/WY35olg.png)
 https://number-guess-thomas.netlify.app
 ## 기능
 * 컴퓨터는 게임이 시작할때 랜덤한 숫자를 뽑는다
